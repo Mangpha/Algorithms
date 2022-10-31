@@ -26,3 +26,11 @@ Ctrl + F로 문제 검색
 
 ---
     
+### 프로그래머스
+    
+| Level | Prob ID | Title(Link) | Code |
+|:-----:|:-------:|:-----------:|:----:|
+| lv1 | 118666 | [성격 유형 검사하기](undefined118666) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv1/118666. 성격 유형 검사하기/성격 유형 검사하기.js)
+
+---
+    
