@@ -30,7 +30,7 @@ Ctrl + F로 문제 검색
     
 | Level | Prob ID | Title(Link) | Code |
 |:-----:|:-------:|:-----------:|:----:|
-| lv1 | 118666 | [성격 유형 검사하기](undefined118666) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv1/118666. 성격 유형 검사하기/성격 유형 검사하기.js)
+| lv1 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv1/118666. 성격 유형 검사하기/성격 유형 검사하기.js)
 
 ---
     
