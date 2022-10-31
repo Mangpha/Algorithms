@@ -32,6 +32,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2562. 최댓값/최댓값.js)
 | Bronze | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2577. 숫자의 개수/숫자의 개수.js)
 | Bronze | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2675. 문자열 반복/문자열 반복.js)
+| Bronze | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2739. 구구단/구구단.js)
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 
 ---
