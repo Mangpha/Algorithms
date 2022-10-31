@@ -4,6 +4,7 @@ const exclude = [".git", "README.md", "UpdateReadme.js", ".github"];
 const folders = fs.readdirSync(root).filter((name) => !exclude.includes(name));
 const sites = {
     백준: "https://www.acmicpc.net/problem/",
+    프로그래머스: "https://school.programmers.co.kr/learn/courses/30/lessons/",
 };
 let markdown = `## BackJoon
 
