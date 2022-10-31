@@ -18,6 +18,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1032. 명령 프롬프트/명령 프롬프트.js)
 | Bronze | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1037. 약수/약수.js)
 | Bronze | 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1110. 더하기 사이클/더하기 사이클.js)
+| Bronze | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1152. 단어의 개수/단어의 개수.js)
 | Bronze | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1157. 단어 공부/단어 공부.js)
 | Bronze | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1193. 분수찾기/분수찾기.js)
 | Bronze | 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1236. 성 지키기/성 지키기.js)
