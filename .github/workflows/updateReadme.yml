@@ -1,0 +1,34 @@
+name: Update Readme
+
+on:
+    push:
+        branches: [master]
+    pull_request:
+        branches: [master]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+
+            - name: Install Nodejs
+              uses: actions/setup-node@v3
+              with:
+                  node-version: 16
+                  cache: "npm"
+
+            - name: run UpdateReadme.js
+              run: |
+                  node UpdateReadme.js
+
+            - name: commit changes
+              run: |
+                  git config --global user.name 'Mangpha'
+                  git config --global user.email '8350130@gmail.com'
+                  git add -A
+                  git commit -am "[ Auto ] Update README.md"
+
+            - name: push changes
+              run: |
+                  git push
