@@ -23,6 +23,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1193. 분수찾기/분수찾기.js)
 | Bronze | 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1236. 성 지키기/성 지키기.js)
 | Bronze | 1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1259. 팰린드롬수/팰린드롬수.js)
+| Bronze | 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1330. 두 수 비교하기/두 수 비교하기.js)
 | Bronze | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2557. Hello World/Hello World.js)
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 
