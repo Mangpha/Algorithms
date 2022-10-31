@@ -8,14 +8,6 @@ Ctrl + F로 문제 검색
 
 ## Solved
 
-### .github
-    
-| Level | Prob ID | Title(Link) | Code |
-|:-----:|:-------:|:-----------:|:----:|
-| workflows | updateReadme.yml | [undefined](undefinedupdateReadme.yml) | [Code](https://github.com/Mangpha/Algorithms/tree/master/.github/workflows/updateReadme.yml/undefined.js)
-
----
-    
 ### 백준
     
 | Level | Prob ID | Title(Link) | Code |
