@@ -18,9 +18,9 @@ jobs:
             #       node-version: 16
             #       cache: "npm"
 
-            - name: run updateReadme.js
+            - name: run UpdateReadme.js
               run: |
-                  node updateReadme.js
+                  node ./UpdateReadme.js
 
             - name: commit changes
               run: |

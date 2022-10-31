@@ -1,6 +1,6 @@
 const fs = require("fs");
 const root = "./";
-const exclude = [".git", "README.md", "UpdateReadme.js"];
+const exclude = [".git", "README.md", "UpdateReadme.js", ".github"];
 const folders = fs.readdirSync(root).filter((name) => !exclude.includes(name));
 const sites = {
     백준: "https://www.acmicpc.net/problem/",
