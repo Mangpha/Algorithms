@@ -29,6 +29,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2439 | [별 찍기 － 2](https://www.acmicpc.net/problem/2439) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2439. 별 찍기 － 2/별 찍기 － 2.js)
 | Bronze | 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2475. 검증수/검증수.js)
 | Bronze | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2557. Hello World/Hello World.js)
+| Bronze | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2562. 최댓값/최댓값.js)
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 
 ---
