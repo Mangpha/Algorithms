@@ -19,6 +19,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1037. 약수/약수.js)
 | Bronze | 10818 | [최소， 최대](https://www.acmicpc.net/problem/10818) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10818. 최소， 최대/최소， 최대.js)
 | Bronze | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10869. 사칙연산/사칙연산.js)
+| Bronze | 10950 | [A＋B － 3](https://www.acmicpc.net/problem/10950) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10950. A＋B － 3/A＋B － 3.js)
 | Bronze | 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1110. 더하기 사이클/더하기 사이클.js)
 | Bronze | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1152. 단어의 개수/단어의 개수.js)
 | Bronze | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1157. 단어 공부/단어 공부.js)
