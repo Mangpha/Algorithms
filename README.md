@@ -41,6 +41,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2675. 문자열 반복/문자열 반복.js)
 | Bronze | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2739. 구구단/구구단.js)
 | Bronze | 2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2741. N 찍기/N 찍기.js)
+| Bronze | 2742 | [기찍 N](https://www.acmicpc.net/problem/2742) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2742. 기찍 N/기찍 N.js)
 | Bronze | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2920. 음계/음계.js)
 | Bronze | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/8958. OX퀴즈/OX퀴즈.js)
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
