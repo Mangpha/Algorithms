@@ -17,6 +17,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1008 | [A／B](https://www.acmicpc.net/problem/1008) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1008. A／B/A／B.js)
 | Bronze | 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1032. 명령 프롬프트/명령 프롬프트.js)
 | Bronze | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1037. 약수/약수.js)
+| Bronze | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10430. 나머지/나머지.js)
 | Bronze | 10818 | [최소， 최대](https://www.acmicpc.net/problem/10818) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10818. 최소， 최대/최소， 최대.js)
 | Bronze | 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1085. 직사각형에서 탈출/직사각형에서 탈출.js)
 | Bronze | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10869. 사칙연산/사칙연산.js)
