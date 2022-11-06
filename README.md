@@ -52,6 +52,7 @@ Ctrl + F로 문제 검색
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 | Silver | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1181. 단어 정렬/단어 정렬.js)
 | Silver | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1654. 랜선 자르기/랜선 자르기.js)
+| Silver | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1920. 수 찾기/수 찾기.js)
 
 ---
     
