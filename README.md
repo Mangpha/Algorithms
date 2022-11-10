@@ -15,6 +15,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1000 | [A＋B](https://www.acmicpc.net/problem/1000) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1000. A＋B/A＋B.js)
 | Bronze | 1001 | [A－B](https://www.acmicpc.net/problem/1001) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1001. A－B/A－B.js)
 | Bronze | 1008 | [A／B](https://www.acmicpc.net/problem/1008) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1008. A／B/A／B.js)
+| Bronze | 10171 | [고양이](https://www.acmicpc.net/problem/10171) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10171. 고양이/고양이.js)
 | Bronze | 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1032. 명령 프롬프트/명령 프롬프트.js)
 | Bronze | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1037. 약수/약수.js)
 | Bronze | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10430. 나머지/나머지.js)
