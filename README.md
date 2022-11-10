@@ -51,6 +51,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2920. 음계/음계.js)
 | Bronze | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/3052. 나머지/나머지.js)
 | Bronze | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/8958. OX퀴즈/OX퀴즈.js)
+| Bronze | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/9498. 시험 성적/시험 성적.js)
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 | Silver | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1181. 단어 정렬/단어 정렬.js)
 | Silver | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1629. 곱셈/곱셈.js)
