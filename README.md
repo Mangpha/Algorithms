@@ -46,6 +46,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2557. Hello World/Hello World.js)
 | Bronze | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2562. 최댓값/최댓값.js)
 | Bronze | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2577. 숫자의 개수/숫자의 개수.js)
+| Bronze | 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2588. 곱셈/곱셈.js)
 | Bronze | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2675. 문자열 반복/문자열 반복.js)
 | Bronze | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2739. 구구단/구구단.js)
 | Bronze | 2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2741. N 찍기/N 찍기.js)
