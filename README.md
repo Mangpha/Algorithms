@@ -54,6 +54,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2741. N 찍기/N 찍기.js)
 | Bronze | 2742 | [기찍 N](https://www.acmicpc.net/problem/2742) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2742. 기찍 N/기찍 N.js)
 | Bronze | 2753 | [윤년](https://www.acmicpc.net/problem/2753) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2753. 윤년/윤년.js)
+| Bronze | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2798. 블랙잭/블랙잭.js)
 | Bronze | 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2884. 알람 시계/알람 시계.js)
 | Bronze | 2908 | [상수](https://www.acmicpc.net/problem/2908) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2908. 상수/상수.js)
 | Bronze | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2920. 음계/음계.js)
