@@ -71,6 +71,7 @@ Ctrl + F로 문제 검색
 | Silver | 2108 | [통계학](https://www.acmicpc.net/problem/2108) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2108. 통계학/통계학.js)
 | Silver | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2164. 카드2/카드2.js)
 | Silver | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2751. 수 정렬하기 2/수 정렬하기 2.js)
+| Silver | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2805. 나무 자르기/나무 자르기.js)
 
 ---
     
