@@ -38,6 +38,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1193. 분수찾기/분수찾기.js)
 | Bronze | 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1236. 성 지키기/성 지키기.js)
 | Bronze | 1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1259. 팰린드롬수/팰린드롬수.js)
+| Bronze | 1271 | [엄청난 부자2](https://www.acmicpc.net/problem/1271) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1271. 엄청난 부자2/엄청난 부자2.js)
 | Bronze | 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1330. 두 수 비교하기/두 수 비교하기.js)
 | Bronze | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1546. 평균/평균.js)
 | Bronze | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/15829. Hashing/Hashing.js)
