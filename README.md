@@ -84,6 +84,7 @@ Ctrl + F로 문제 검색
 |:-----:|:-------:|:-----------:|:----:|
 | lv1 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv1/118666. 성격 유형 검사하기/성격 유형 검사하기.js)
 | lv2 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/118667. 두 큐 합 같게 만들기/두 큐 합 같게 만들기.js)
+| lv2 | 1844 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/1844. 게임 맵 최단거리/게임 맵 최단거리.js)
 | lv2 | 92341 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/92341. 주차 요금 계산/주차 요금 계산.js)
 | unrated | 135808 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/135808. 과일 장수/과일 장수.js)
 | unrated | 136798 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/136798. 기사단원의 무기/기사단원의 무기.js)
