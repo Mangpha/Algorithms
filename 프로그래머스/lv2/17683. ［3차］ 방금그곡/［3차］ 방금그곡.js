@@ -3,9 +3,7 @@ function solution(m, musicinfos) {
 	const convM = (melody) => melody.replace(/(\D)#/g, (_, p) => p.toLowerCase());
 	m = convM(m);
 	const dict = [];
-	musicinfos
-		.map((el) => el.split(','))
-		.forEach((music, idx) => {
+	musicinfos.map((el) => el.split(',')).forEach((music, idx) => {
 			const [start, end, title, mel] = music;
 			const time = HtoM(start.split(':'), end.split(':'));
 			const melody = convM(mel);
