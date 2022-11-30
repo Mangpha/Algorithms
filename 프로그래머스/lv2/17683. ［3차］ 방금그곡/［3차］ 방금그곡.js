@@ -1,12 +1,6 @@
 function solution(m, musicinfos) {
 	const HtoM = (s, e) => e[0] * 60 + Number(e[1]) - (s[0] * 60 + Number(s[1]));
-	const convM = (melody) =>
-		melody
-			.replaceAll('C#', 'c')
-			.replaceAll('D#', 'd')
-			.replaceAll('F#', 'f')
-			.replaceAll('G#', 'g')
-			.replaceAll('A#', 'a');
+	const convM = (melody) => melody.replace(/(\D)#/g, (_, p) => p.toLowerCase());
 	m = convM(m);
 	const dict = [];
 	musicinfos
