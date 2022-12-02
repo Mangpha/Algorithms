@@ -85,6 +85,7 @@ Ctrl + F로 문제 검색
 |:-----:|:-------:|:-----------:|:----:|
 | lv1 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv1/118666. 성격 유형 검사하기/성격 유형 검사하기.js)
 | lv2 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/118667. 두 큐 합 같게 만들기/두 큐 합 같게 만들기.js)
+| lv2 | 17680 | [［1차］ 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/17680. ［1차］ 캐시/［1차］ 캐시.js)
 | lv2 | 17683 | [［3차］ 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/17683. ［3차］ 방금그곡/［3차］ 방금그곡.js)
 | lv2 | 17684 | [［3차］ 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/17684. ［3차］ 압축/［3차］ 압축.js)
 | lv2 | 1844 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/1844. 게임 맵 최단거리/게임 맵 최단거리.js)
