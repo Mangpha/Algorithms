@@ -96,6 +96,7 @@ Ctrl + F로 문제 검색
 | lv2 | 86971 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/86971. 전력망을 둘로 나누기/전력망을 둘로 나누기.js)
 | lv2 | 87377 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/87377. 교점에 별 만들기/교점에 별 만들기.js)
 | lv2 | 87390 | [n＾2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/87390. n＾2 배열 자르기/n＾2 배열 자르기.js)
+| lv2 | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/87946. 피로도/피로도.js)
 | lv2 | 92335 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/92335. k진수에서 소수 개수 구하기/k진수에서 소수 개수 구하기.js)
 | lv2 | 92341 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/92341. 주차 요금 계산/주차 요금 계산.js)
 | unrated | 134240 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/134240. 푸드 파이트 대회/푸드 파이트 대회.js)
