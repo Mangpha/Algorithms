@@ -91,6 +91,7 @@ Ctrl + F로 문제 검색
 | lv2 | 12952 | [N－Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/12952. N－Queen/N－Queen.js)
 | lv2 | 12953 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/12953. N개의 최소공배수/N개의 최소공배수.js)
 | lv2 | 12980 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/12980. 점프와 순간 이동/점프와 순간 이동.js)
+| lv2 | 131127 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/131127. 할인 행사/할인 행사.js)
 | lv2 | 17680 | [［1차］ 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/17680. ［1차］ 캐시/［1차］ 캐시.js)
 | lv2 | 17683 | [［3차］ 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/17683. ［3차］ 방금그곡/［3차］ 방금그곡.js)
 | lv2 | 17684 | [［3차］ 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/17684. ［3차］ 압축/［3차］ 압축.js)
