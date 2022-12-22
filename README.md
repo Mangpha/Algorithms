@@ -101,6 +101,7 @@ Ctrl + F로 문제 검색
 | lv2 | 68936 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/68936. 쿼드압축 후 개수 세기/쿼드압축 후 개수 세기.js)
 | lv2 | 76502 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/76502. 괄호 회전하기/괄호 회전하기.js)
 | lv2 | 77885 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/77885. 2개 이하로 다른 비트/2개 이하로 다른 비트.js)
+| lv2 | 81302 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/81302. 거리두기 확인하기/거리두기 확인하기.js)
 | lv2 | 86971 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/86971. 전력망을 둘로 나누기/전력망을 둘로 나누기.js)
 | lv2 | 87377 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/87377. 교점에 별 만들기/교점에 별 만들기.js)
 | lv2 | 87390 | [n＾2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/87390. n＾2 배열 자르기/n＾2 배열 자르기.js)
