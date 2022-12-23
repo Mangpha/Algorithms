@@ -72,6 +72,7 @@ Ctrl + F로 문제 검색
 | Silver | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1629. 곱셈/곱셈.js)
 | Silver | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1654. 랜선 자르기/랜선 자르기.js)
 | Silver | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1874. 스택 수열/스택 수열.js)
+| Silver | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/18870. 좌표 압축/좌표 압축.js)
 | Silver | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1920. 수 찾기/수 찾기.js)
 | Silver | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1929. 소수 구하기/소수 구하기.js)
 | Silver | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1978. 소수 찾기/소수 찾기.js)
