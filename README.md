@@ -70,6 +70,7 @@ Ctrl + F로 문제 검색
 | Silver | 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1018. 체스판 다시 칠하기/체스판 다시 칠하기.js)
 | Silver | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10816. 숫자 카드 2/숫자 카드 2.js)
 | Silver | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10828. 스택/스택.js)
+| Silver | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/11650. 좌표 정렬하기/좌표 정렬하기.js)
 | Silver | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1181. 단어 정렬/단어 정렬.js)
 | Silver | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1629. 곱셈/곱셈.js)
 | Silver | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1654. 랜선 자르기/랜선 자르기.js)
