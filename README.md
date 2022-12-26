@@ -68,6 +68,7 @@ Ctrl + F로 문제 검색
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 | Silver | 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1010. 다리 놓기/다리 놓기.js)
 | Silver | 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1018. 체스판 다시 칠하기/체스판 다시 칠하기.js)
+| Silver | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10816. 숫자 카드 2/숫자 카드 2.js)
 | Silver | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10828. 스택/스택.js)
 | Silver | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1181. 단어 정렬/단어 정렬.js)
 | Silver | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1629. 곱셈/곱셈.js)
