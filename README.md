@@ -44,6 +44,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1546. 평균/평균.js)
 | Bronze | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/15829. Hashing/Hashing.js)
 | Bronze | 18108 | [1998년생인 내가 태국에서는 2541년생？！](https://www.acmicpc.net/problem/18108) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/18108. 1998년생인 내가 태국에서는 2541년생？！/1998년생인 내가 태국에서는 2541년생？！.js)
+| Bronze | 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2231. 분해합/분해합.js)
 | Bronze | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2292. 벌집/벌집.js)
 | Bronze | 2438 | [별 찍기 － 1](https://www.acmicpc.net/problem/2438) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2438. 별 찍기 － 1/별 찍기 － 1.js)
 | Bronze | 2439 | [별 찍기 － 2](https://www.acmicpc.net/problem/2439) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2439. 별 찍기 － 2/별 찍기 － 2.js)
