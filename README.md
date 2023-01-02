@@ -71,6 +71,7 @@ Ctrl + F로 문제 검색
 | Silver | 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1010. 다리 놓기/다리 놓기.js)
 | Silver | 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1018. 체스판 다시 칠하기/체스판 다시 칠하기.js)
 | Silver | 1063 | [킹](https://www.acmicpc.net/problem/1063) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1063. 킹/킹.js)
+| Silver | 10773 | [제로](https://www.acmicpc.net/problem/10773) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10773. 제로/제로.js)
 | Silver | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10816. 숫자 카드 2/숫자 카드 2.js)
 | Silver | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10828. 스택/스택.js)
 | Silver | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/10845. 큐/큐.js)
