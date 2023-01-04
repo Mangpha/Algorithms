@@ -93,6 +93,7 @@ Ctrl + F로 문제 검색
 | Silver | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2805. 나무 자르기/나무 자르기.js)
 | Silver | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2839. 설탕 배달/설탕 배달.js)
 | Silver | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/7568. 덩치/덩치.js)
+| Silver | 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/9184. 신나는 함수 실행/신나는 함수 실행.js)
 
 ---
     
