@@ -86,6 +86,7 @@ Ctrl + F로 문제 검색
 | Silver | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/18870. 좌표 압축/좌표 압축.js)
 | Silver | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1920. 수 찾기/수 찾기.js)
 | Silver | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1929. 소수 구하기/소수 구하기.js)
+| Silver | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1932. 정수 삼각형/정수 삼각형.js)
 | Silver | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1978. 소수 찾기/소수 찾기.js)
 | Silver | 2108 | [통계학](https://www.acmicpc.net/problem/2108) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2108. 통계학/통계학.js)
 | Silver | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2164. 카드2/카드2.js)
