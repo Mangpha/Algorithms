@@ -66,6 +66,7 @@ Ctrl + F로 문제 검색
 | Bronze | 8393 | [합](https://www.acmicpc.net/problem/8393) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/8393. 합/합.js)
 | Bronze | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/8958. OX퀴즈/OX퀴즈.js)
 | Bronze | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/9498. 시험 성적/시험 성적.js)
+| Gold | 1013 | [Contact](https://www.acmicpc.net/problem/1013) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Gold/1013. Contact/Contact.js)
 | Platinum | 11868 | [님 게임 2](https://www.acmicpc.net/problem/11868) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Platinum/11868. 님 게임 2/님 게임 2.js)
 | Silver | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1003. 피보나치 함수/피보나치 함수.js)
 | Silver | 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1010. 다리 놓기/다리 놓기.js)
