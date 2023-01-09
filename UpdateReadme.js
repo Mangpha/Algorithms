@@ -42,7 +42,8 @@ folders.forEach((folder) => {
                     sites[folder] + id
                 }) | [Code](https://github.com/Mangpha/Algorithms/tree/master/${folder}/${level}/${prob}/${file}) | ${
                     lanDict[language]
-                } |`;
+                } |
+`;
             });
         });
     });
