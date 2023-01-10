@@ -131,6 +131,7 @@ Ctrl + F로 문제 검색
 | unrated | 135808 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/135808. 과일 장수/과일 장수.js) | JavaScript |
 | unrated | 136798 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/136798. 기사단원의 무기/기사단원의 무기.js) | JavaScript |
 | unrated | 140108 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/140108. 문자열 나누기/문자열 나누기.js) | JavaScript |
+| unrated | 147355 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/147355. 크기가 작은 부분문자열/크기가 작은 부분문자열.js) | JavaScript |
 | unrated | 150370 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/unrated/150370. 개인정보 수집 유효기간/개인정보 수집 유효기간.js) | JavaScript |
 
 ---
