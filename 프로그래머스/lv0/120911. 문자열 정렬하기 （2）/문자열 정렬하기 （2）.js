@@ -1,0 +1,1 @@
+const solution = (s) => s.toLowerCase().split('').sort((a, b) => a.localeCompare(b)).join('');
