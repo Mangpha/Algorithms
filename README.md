@@ -63,6 +63,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2908 | [상수](https://www.acmicpc.net/problem/2908) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2908. 상수/상수.js) | JavaScript |
 | Bronze | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2920. 음계/음계.js) | JavaScript |
 | Bronze | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/3052. 나머지/나머지.js) | JavaScript |
+| Bronze | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/4344. 평균은 넘겠지/평균은 넘겠지.js) | JavaScript |
 | Bronze | 8393 | [합](https://www.acmicpc.net/problem/8393) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/8393. 합/합.js) | JavaScript |
 | Bronze | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/8958. OX퀴즈/OX퀴즈.js) | JavaScript |
 | Bronze | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/9498. 시험 성적/시험 성적.js) | JavaScript |
