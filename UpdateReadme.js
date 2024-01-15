@@ -5,6 +5,7 @@ const folders = fs.readdirSync(root).filter((name) => !exclude.includes(name));
 const lanDict = {
     js: "JavaScript",
     py: "Python",
+    cpp: "C++",
 };
 const sites = {
     백준: "https://www.acmicpc.net/problem/",
