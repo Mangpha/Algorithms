@@ -104,7 +104,7 @@ Ctrl + F로 문제 검색
     
 | Level | Prob ID | Title(Link) | Code | Language |
 |:-----:|:-------:|:-----------:|:----:|:---------|
-| Lv.0 | 120802 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/Lv.0/120802. 두 수의 합/두 수의 합.cpp) | undefined |
+| Lv.0 | 120802 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/Lv.0/120802. 두 수의 합/두 수의 합.cpp) | C++ |
 | lv0 | 120911 | [문자열 정렬하기 （2）](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv0/120911. 문자열 정렬하기 （2）/문자열 정렬하기 （2）.js) | JavaScript |
 | lv1 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv1/118666. 성격 유형 검사하기/성격 유형 검사하기.js) | JavaScript |
 | lv2 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [Code](https://github.com/Mangpha/Algorithms/tree/master/프로그래머스/lv2/118667. 두 큐 합 같게 만들기/두 큐 합 같게 만들기.js) | JavaScript |
