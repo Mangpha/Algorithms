@@ -42,6 +42,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1259. 팰린드롬수/팰린드롬수.js) | JavaScript |
 | Bronze | 1271 | [엄청난 부자2](https://www.acmicpc.net/problem/1271) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1271. 엄청난 부자2/엄청난 부자2.js) | JavaScript |
 | Bronze | 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1330. 두 수 비교하기/두 수 비교하기.js) | JavaScript |
+| Bronze | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/14681. 사분면 고르기/사분면 고르기.cc) | undefined |
 | Bronze | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1546. 평균/평균.js) | JavaScript |
 | Bronze | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/15829. Hashing/Hashing.js) | JavaScript |
 | Bronze | 18108 | [1998년생인 내가 태국에서는 2541년생？！](https://www.acmicpc.net/problem/18108) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/18108. 1998년생인 내가 태국에서는 2541년생？！/1998년생인 내가 태국에서는 2541년생？！.js) | JavaScript |
