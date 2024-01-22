@@ -61,6 +61,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2739. 구구단/구구단.js) | JavaScript |
 | Bronze | 2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2741. N 찍기/N 찍기.js) | JavaScript |
 | Bronze | 2742 | [기찍 N](https://www.acmicpc.net/problem/2742) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2742. 기찍 N/기찍 N.js) | JavaScript |
+| Bronze | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2750. 수 정렬하기/수 정렬하기.py) | Python |
 | Bronze | 2753 | [윤년](https://www.acmicpc.net/problem/2753) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2753. 윤년/윤년.js) | JavaScript |
 | Bronze | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2798. 블랙잭/블랙잭.js) | JavaScript |
 | Bronze | 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2884. 알람 시계/알람 시계.js) | JavaScript |
