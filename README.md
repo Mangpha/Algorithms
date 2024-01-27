@@ -54,6 +54,7 @@ Ctrl + F로 문제 검색
 | Bronze | 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2475. 검증수/검증수.js) | JavaScript |
 | Bronze | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2480. 주사위 세개/주사위 세개.py) | Python |
 | Bronze | 2525 | [오븐 시계](https://www.acmicpc.net/problem/2525) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2525. 오븐 시계/오븐 시계.cc) | undefined |
+| Bronze | 25304 | [영수증](https://www.acmicpc.net/problem/25304) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/25304. 영수증/영수증.py) | Python |
 | Bronze | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2557. Hello World/Hello World.js) | JavaScript |
 | Bronze | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2562. 최댓값/최댓값.js) | JavaScript |
 | Bronze | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/2577. 숫자의 개수/숫자의 개수.js) | JavaScript |
