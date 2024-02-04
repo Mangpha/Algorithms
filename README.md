@@ -21,6 +21,7 @@ Ctrl + F로 문제 검색
 | Bronze | 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1032. 명령 프롬프트/명령 프롬프트.js) | JavaScript |
 | Bronze | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1037. 약수/약수.js) | JavaScript |
 | Bronze | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10430. 나머지/나머지.js) | JavaScript |
+| Bronze | 10807 | [개수 세기](https://www.acmicpc.net/problem/10807) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10807. 개수 세기/개수 세기.py) | Python |
 | Bronze | 10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10809. 알파벳 찾기/알파벳 찾기.js) | JavaScript |
 | Bronze | 10810 | [공 넣기](https://www.acmicpc.net/problem/10810) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10810. 공 넣기/공 넣기.py) | Python |
 | Bronze | 10811 | [바구니 뒤집기](https://www.acmicpc.net/problem/10811) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10811. 바구니 뒤집기/바구니 뒤집기.py) | Python |
