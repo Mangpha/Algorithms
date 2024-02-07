@@ -34,6 +34,7 @@ Ctrl + F로 문제 검색
 | Bronze | 10950 | [A＋B － 3](https://www.acmicpc.net/problem/10950) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10950. A＋B － 3/A＋B － 3.js) | JavaScript |
 | Bronze | 10951 | [A＋B － 4](https://www.acmicpc.net/problem/10951) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10951. A＋B － 4/A＋B － 4.js) | JavaScript |
 | Bronze | 10952 | [A＋B － 5](https://www.acmicpc.net/problem/10952) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10952. A＋B － 5/A＋B － 5.js) | JavaScript |
+| Bronze | 10988 | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10988. 팰린드롬인지 확인하기/팰린드롬인지 확인하기.py) | Python |
 | Bronze | 10998 | [A×B](https://www.acmicpc.net/problem/10998) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/10998. A×B/A×B.js) | JavaScript |
 | Bronze | 11021 | [A＋B － 7](https://www.acmicpc.net/problem/11021) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/11021. A＋B － 7/A＋B － 7.js) | JavaScript |
 | Bronze | 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Bronze/1110. 더하기 사이클/더하기 사이클.js) | JavaScript |
