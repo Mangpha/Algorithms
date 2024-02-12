@@ -106,6 +106,7 @@ Ctrl + F로 문제 검색
 | Silver | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/1978. 소수 찾기/소수 찾기.js) | JavaScript |
 | Silver | 2108 | [통계학](https://www.acmicpc.net/problem/2108) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2108. 통계학/통계학.js) | JavaScript |
 | Silver | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2164. 카드2/카드2.js) | JavaScript |
+| Silver | 25206 | [너의 평점은](https://www.acmicpc.net/problem/25206) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/25206. 너의 평점은/너의 평점은.py) | Python |
 | Silver | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2751. 수 정렬하기 2/수 정렬하기 2.js) | JavaScript |
 | Silver | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2805. 나무 자르기/나무 자르기.js) | JavaScript |
 | Silver | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [Code](https://github.com/Mangpha/Algorithms/tree/master/백준/Silver/2839. 설탕 배달/설탕 배달.js) | JavaScript |
